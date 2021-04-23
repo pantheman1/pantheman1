@@ -6,6 +6,18 @@
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantheman1&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
 
+### Let's connect
+<a href="https://www.linkedin.com/in/peterburtonanderson1/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://pantheman1.github.io/#" target="_blank">
+<img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
+</a>
+
+<a href="https://angel.co/u/peter-anderson-29" target="_blank">
+<img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
+</a>
 <!--
 **pantheman1/pantheman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
